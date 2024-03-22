@@ -15,7 +15,6 @@ title: Visual Gallery
 ![hermit-hut.png](mountain-cards/hermit-hut.png)
 ![coldsnap.png](mountain-cards/coldsnap.png)
 ![sandstone-cliff.png](mountain-cards/sandstone-cliff.png)
-![mudslide.png](mountain-cards/mudslide.png)
 ![gondola.png](mountain-cards/gondola.png)
 ![rainstorm.png](mountain-cards/rainstorm.png)
 ![stream.png](mountain-cards/stream.png)
