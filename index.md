@@ -6,14 +6,6 @@ At the peak of Burnaby Mountain stands the esteemed Simon Fraser University, tow
 
 However, in this asymmetrical board game, the journey to class is not a simple stroll down the street. Each day, it is an embarkment up vigorous trails and unpredictable environmental destructions to congest your path to knowledge. Every step, you must use your intellect, agility, and resilience to take advantage and stay ahead of the game. Do you have what it takes to tame the mountain and reach the lecture hall of boundless learning?
 
-## How to Play
-
-Check out the [rulebook](rulebook.md) to find out how to set up and play The Peak.
-
-## Visual Gallery
-
-See the [visual gallery](visual-gallery.md) for images of all of the game components.
-
 ## Core Statement and Pillars
 
 The Peak is a strategic two-player mountain-climbing game, where one player aims to ascend to the summit while the other player, controlling the mountain, seeks to hinder their progress with treacherous obstacles.
