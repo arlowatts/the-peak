@@ -38,3 +38,7 @@ title: Visual Gallery
 ![biology.png](goal-cards/biology.png)
 ![health-science.png](goal-cards/health-science.png)
 ![chemistry.png](goal-cards/chemistry.png)
+
+## Image Source
+
+We used Stable Diffusion to generate all background images in this visual gallery.
