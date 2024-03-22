@@ -1,3 +1,13 @@
 theme: minima
 
 permalink: /:path/:basename/
+
+header_pages:
+  - index.md
+  - rulebook.md
+  - visual-gallery.md
+  - game-dynamics.md
+  - playtest-log.md
+  - minutes.md
+  - contributions.md
+  - original-idea.md
