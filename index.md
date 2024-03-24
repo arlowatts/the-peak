@@ -2,7 +2,7 @@
 title: The Peak
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKfAqjg-BXE?si=ccU2Rh9fQIZpJ7iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/cKfAqjg-BXE?si=ccU2Rh9fQIZpJ7iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 At the peak of Burnaby Mountain stands the esteemed Simon Fraser University, towering over the lower mainland. The passage to the top is treacherous, as students must overcome various obstacles protruding from the mountain. You are among these dedicated academics with a passion for education!
 
