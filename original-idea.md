@@ -2,6 +2,8 @@
 title: Original Game Idea
 ---
 
+> Below is the original description of The Peak. Since then it has undergone significant changes based on group discussions and playtesting results, and this page no longer reflects the latest set of rules. Please see the current [rulebook](rulebook.md) for the latest revision.
+
 The Peak is a two-player mountain-climbing game inspired by SFU's Burnaby Campus and named for its local newsletter. One player plays as a mountaineer on the mountain, trying to reach the top and score points. The other player plays as the mountain itself, working to hold back the mountaineer with steep cliffs and dangerous hazards!
 
 ## Game Core
