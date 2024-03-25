@@ -23,10 +23,10 @@ title: Contributions
 ## Kieran
 
 - Helped with meeting minutes log
-- Playtested 
+- Playtested
 - Helped edit rulebook after playtesting
 - Successful strategies
-- Trade-offs and dilemmas 
+- Trade-offs and dilemmas
 - Typical Session length
 - Created some videos for board game trailer
 
@@ -39,7 +39,7 @@ title: Contributions
 - Helped with board game prototype
 - Assisted with goal cards
 - Helped with core statements and pillars
-- Collaborated for the large banner 
+- Collaborated for the large banner
 
 ## Artin
 
@@ -48,7 +48,7 @@ title: Contributions
 - Playtested
 - Wrote quantitative analysis
 - Wrote playtest log
-- Assisted in rule tweaking 
+- Assisted in rule tweaking
 
 ## Raph
 

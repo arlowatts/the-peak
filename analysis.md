@@ -12,21 +12,21 @@ There are a total of 9 goal cards. Since each player draws two goal cards to sta
 
 There are a total of 35 mountain cards:
 - 4 hiking trails
-- 1 bear cave 
+- 1 bear cave
 - 2 tectonic shifts
 - 4 streams
 - 1 rainstorm
-- 2 lookouts 
+- 2 lookouts
 - 2 waterfalls
-- 1 gondola 
+- 1 gondola
 - 2 natural springs
 - 2 stone steps
 - 1 protected hallow
 - 2 eroded slopes
-- 4 wooden bridges 
-- 1 portapotty 
+- 4 wooden bridges
+- 1 portapotty
 - 1 hermit hut
-- 2 food caches 
+- 2 food caches
 - 1 cold snap
 - 2 sandstone cliff
 
