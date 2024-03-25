@@ -8,6 +8,8 @@ title: The Peak
 
 The Peak is a strategic two-player mountain-climbing game, where one player aims to ascend to the summit while the other player, controlling the mountain, seeks to hinder their progress with treacherous obstacles.
 
+## Trailer Video
+
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/cKfAqjg-BXE?si=ccU2Rh9fQIZpJ7iy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## Context and Inspiration
@@ -38,17 +40,17 @@ At the peak of Burnaby Mountain stands the esteemed Simon Fraser University, tow
 
 However, in this asymmetrical board game, the journey to class is not a simple stroll down the street. Each day is an embarkment up vigorous trails and unpredictable environmental destructions to congest your path to knowledge. At every step, you must use your intellect, agility, and resilience to take advantage and stay ahead of the game. Do you have what it takes to tame the mountain and reach the lecture hall of boundless learning?
 
-## How to Play
+## About the Game
 
 For more about the game components and how to play, check out the [visual gallery](visual-gallery.md) and the [rulebook](rulebook.md).
 
 ## Development Process
 
-To read about our process for developing the game, see the [meeting minutes log](minutes.md) and the [playtesting log](playtest-log.md).
+To read about our process for developing the game, see the [meeting log](minutes.md) and the [playtesting log](playtest-log.md).
 
-## Quantitative Measures
+## Diagrams, Quantitative Measures, and Game Dynamics
 
-For information about quantitative measures and diagrams of the game, check out our [flowcharts](flowcharts.md), the [quantitative analysis](analysis.md), and our write-up about the game's [dynamics and trade-offs](game-dynamics.md).
+For information about diagrams and quantitative measures of the game, check out our [flowcharts](flowcharts.md), the [quantitative analysis](analysis.md), and our write-up about the game's [dynamics and trade-offs](game-dynamics.md). The last page also describes the length of a typical play session.
 
 ## Group Member Contributions
 
