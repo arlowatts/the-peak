@@ -18,7 +18,7 @@ The other player in the game is the Mountaineer player. This player will roll di
 
 ### Goal Cards
 
-At the start of the game, the Mountaineer player draws a single Goal card and the Mountain player draws two Goal cards. At the end of the game, each player reveals their Goal card and gains extra points if they complete the goal printed on it. Each Goal card can be used by either player, so both players draw from the same deck of Goal cards.
+At the start of the game, each player draws two Goal cards. At the end of the game, each player reveals their Goal cards and gains extra points if they have completed the goal printed on them. Each Goal card can be used by either player, so both players draw from the same deck of Goal cards.
 
 ### Mountain Cards
 
@@ -26,7 +26,7 @@ The main component of the game is the deck of Mountain cards. Each Mountain card
 
 #### Elevation
 
-A Mountain card’s Elevation does not initially impact the board. At the end of the game, the Mountaineer gains a number of points equal to the total Elevation they gained from the Mountain cards they crossed. Many Goal cards also consider the Elevation of the cards the Mountaineer has crossed, so pay attention to these numbers throughout the game!
+A Mountain card’s Elevation does not initially impact the board. At the end of the game, the Mountaineer gains a number of points equal to the total Elevation they gained from the Mountain cards they crossed. Also at the end of the game, the Mountain player gains a number of points equal to the total Elevation among the Mountain cards still on the board. Many Goal cards also consider the Elevation of the cards the Mountaineer has crossed.
 
 #### Difficulty
 
@@ -34,9 +34,9 @@ A Mountain card’s Difficulty represents how challenging it is for the Mountain
 
 #### Special Effect
 
-A Mountain card’s special effect is an effect that occurs either when the Mountain player plays a Mountain card, when the mountaineer fails to cross it, or when the mountaineer successfully crosses it. Some cards also have continuous effects that apply as long as it is on the board. The text printed on the card describes when the effect can happen and how long it lasts. The effect can range from subtracting an amount from the Mountaineer’s next die roll to moving all the cards on the board. Not all Mountain cards have effects, and some have several!
+A Mountain card’s special effect is an effect that occurs either when the Mountain player plays a Mountain card, when the Mountaineer fails to cross it, or when the Mountaineer successfully crosses it. Some cards also have continuous effects that apply as long as they are on the board. The text printed on the card describes when the effect can happen and how long it lasts. The effect can range from subtracting an amount from the Mountaineer’s next die roll to moving all the cards around on the board. Not all Mountain cards have effects, and some have several!
 
-Some Mountain Cards have no Elevation or Difficulty and only have an immediate effect. These cards can be played by the Mountain player and don’t need to be played onto the board.
+Some Mountain Cards have no Elevation or Difficulty and only have an immediate effect. These cards can be played by the Mountain player and don’t need to be played onto the board - they are discarded immediately.
 
 ### Other Components
 
@@ -56,7 +56,7 @@ The board is a 5x5 grid of cells each the size of a Mountain card. The Mountain 
 
 ### Setup
 
-Decide who will be the Mountain player and who will be the Mountaineer player. Place the board in the middle of the table and put the Mountaineer Token in the center square. Shuffle both decks of cards and place them near the board. Make room for a discard pile next to the deck of Mountain cards. Then the Mountain player draws two Goal cards and five Mountain cards from the decks, and the Mountaineer player draws a single Goal card from the deck. The Mountain player will take the first turn.
+Decide who will be the Mountain player and who will be the Mountaineer player. Place the board in the middle of the table and put the Mountaineer Token in the center square. Shuffle both decks of cards and place them near the board. Make room for a discard pile next to the deck of Mountain cards. Then the Mountain player draws two Goal cards and five Mountain cards, and the Mountaineer player draws two Goal cards. The Mountain player will take the first turn.
 
 ### The Mountain Player’s Turn
 
@@ -70,10 +70,10 @@ When the Mountain player has no more cards to play or doesn’t want to play any
 
 During their turn, the Mountaineer player can choose a Mountain card in a square next to the Mountaineer token on the board and try to challenge it. To challenge a Mountain card, the Mountaineer player rolls two six-sided dice and adds them together. Then they compare the result to the Difficulty value of the Mountain card they chose.
 
-If the result of the dice is equal to or greater than the Difficulty value, they succeed. The Mountaineer player takes the card off the board and moves the Mountaineer token into the space it previously occupied. They’ll keep the card until the end of the game and will gain points for its Elevation. If the Mountain card has a special effect when it is successfully crossed, that effect happens immediately. Then the Mountaineer player continues their turn and may try to challenge more Mountain cards in the same way.
+If the result of the dice is equal to or greater than the Difficulty value, they succeed. The Mountaineer player takes the card off the board and moves the Mountaineer token into the space it previously occupied. They’ll keep the card until the end of the game and will gain points for its Elevation. If the Mountain card has a special effect when it is successfully crossed, that effect happens immediately. Then the Mountaineer player continues their turn and may try to challenge more Mountain cards in the same way, or may choose to end their turn.
 
 If the result of the dice is less than the Difficulty of the Mountain card, the mountaineer fails. The card stays where it is on the board and the Mountaineer player’s turn ends. If the card has an effect when the Mountaineer player fails to cross it, that effect happens.
 
 ## Ending the Game
 
-When the Mountain player has no cards left in their hand and there are no more Mountain cards left in the deck, the game is almost over. The Mountaineer player gets one more turn after the Mountain player plays their last cards, and then the game ends. To determine the winner, each player reveals their Goal card(s). For each player, add up the points they gain from each of their Goal cards. Then the Mountaineer player gains additional points equal to the total Elevation they gained from the Mountain cards they crossed. The player with the most points wins!
+When both players finish 5 turns each, the game ends. To determine the winner, each player reveals their Goal cards. For each player, add up the points they gain from each of their Goal cards. The Mountaineer player gains additional points equal to the total Elevation they gained from the Mountain cards they crossed. Then the Mountain player obtains points equal to the total elevation of any remaining Mountain cards left on the board. The player with the most points wins!
