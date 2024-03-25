@@ -62,3 +62,5 @@ title: Contributions
 - Helped created the mountain cards structures
 - Helped created the goal card structures
 - Came up with the idea of having student majors as the goal cards
+- Helped with core statements and pillars
+- Helped with the rulebook a little bit
